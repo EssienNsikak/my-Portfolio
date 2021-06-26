@@ -26,7 +26,7 @@ export default function Testimonials() {
             name: 'Patrick Emmanuel',
             title: 'Senior Full-stack Dev. Sezzle',
             img: 'assets/emma2.jpg',
-            icon: 'assets/linkedin.png',
+            icon: 'assets/lnk2.jpg',
             desc: 'He is an exquisite gentleman who is resourceful, dynamic, hardworking. He will be a great asset to you organization.',
         }
     ];

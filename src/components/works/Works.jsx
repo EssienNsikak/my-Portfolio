@@ -43,10 +43,80 @@ export default function Works() {
             desc: 'Building a Responsive Virtual Classroom Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
             img: 'assets/Pockit2.jpg'
         },
+        {
+            id: 6,
+            icon: 'assets/mobile.png',
+            title: 'e-commerce Application',
+            desc: 'Building a Responsive e-commerce Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/e-comm4.png'
+        },
+        {
+            id: 7,
+            icon: 'assets/mobile.png',
+            title: 'Indecision Application',
+            desc: 'Building a Responsive Indecision Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/indc2.png'
+        },
+        {
+            id: 8,
+            icon: 'assets/mobile.png',
+            title: 'e-commerce Application',
+            desc: 'Building a Responsive e-commerce Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/e-comm2.png'
+        },
+        {
+            id: 9,
+            icon: 'assets/mobile.png',
+            title: 'Web Application',
+            desc: 'Building a Responsive Hotel Booking Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/hotel-tour.png'
+        },
+        {
+            id: 10,
+            icon: 'assets/mobile.png',
+            title: 'Web Application',
+            desc: 'Building a Responsive City Tour Guide Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/city-tour.png'
+        },
+        {
+            id: 11,
+            icon: 'assets/mobile.png',
+            title: 'Budget Application',
+            desc: 'Building a Responsive Budget Tracking Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/bugt.png'
+        },
+        {
+            id: 12,
+            icon: 'assets/mobile.png',
+            title: 'Weather Application',
+            desc: 'Building a Responsive Weather Forecast Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/weather-app.png'
+        },
+        {
+            id: 13,
+            icon: 'assets/mobile.png',
+            title: 'e-Commerce Application',
+            desc: 'Building a Responsive e-Commerce Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/e-comm4.png'
+        },
+        {
+            id: 14,
+            icon: 'assets/mobile.png',
+            title: 'Web Application',
+            desc: 'Building a Responsive Expense Tracking Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/exp-tracker.png'
+        },
+        {
+            id: 15,
+            icon: 'assets/mobile.png',
+            title: 'News Blog',
+            desc: 'Building a Responsive News Blog Application using React Hooks, HTML, Material UI, Nodejs, MongoDB, Express & SCSS.',
+            img: 'assets/newsapp.png'
+        },
     ];
 
     const handleClick = (direction) => {
-        direction === 'left' ? setCurrentSlide(currentSlide > 0 ? currentSlide - 1 : 4) : 
+        direction === 'left' ? setCurrentSlide(currentSlide > 0 ? currentSlide - 1 : 14) : 
         setCurrentSlide(currentSlide < data.length - 1 ? currentSlide + 1 : 0)
     }
     return (

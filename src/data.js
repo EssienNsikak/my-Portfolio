@@ -48,52 +48,52 @@ export const webPortfolio = [
         id: 2,
         title: 'Expense Tracking App',
         img:
-            'assets/Blooom2.jpg',
+            'assets/exp-tracker.png',
     },
     {
         id: 3,
         title: 'Kraken - Virtual Learning App',
         img:
-            'assets/Blooom.jpg',
+            'assets/newsapp.png',
     },
     {
         id: 4,
         title: 'KiddieBox - Virtual Classroom App',
         img:
-        'assets/Pockit2.jpg',
+        'assets/bugt.png',
     },
     {
         id: 5,
-        title: 'Blooom - Social Media App',
+        title: 'E-Commerce App',
         img:
-            'assets/Blooom3.jpg',
+            'assets/e-comm4.png',
     },
     {
         id: 6,
-        title: 'Portfolio Web App',
+        title: 'Indecision App',
         img:
-            'assets/portfolio.png',
+            'assets/indc2.png',
     }
 ];
   
 export const mobilePortfolio = [
     {
         id: 1,
-        title: 'Kraken - Virtual Learning App',
+        title: 'ItieUrua - e-Commerce App',
         img:
-            'assets/Blooom.jpg',
+            'assets/e-comm.png',
     },
     {
         id: 2,
-        title: 'Expense Tracking App',
+        title: 'City Tour Guide App',
         img:
-            'assets/Blooom2.jpg',
+            'assets/city-tour.png',
     },
     {
         id: 3,
-        title: 'PockIt - Virtual Office Space App',
+        title: 'Bookerz - Hotel Booking App',
         img:
-            'assets/pockit.jpg',
+            'assets/hotel-tour.png',
     },
     {
         id: 4,
@@ -103,30 +103,30 @@ export const mobilePortfolio = [
     },
     {
         id: 5,
-        title: 'Blooom - Social Media App',
+        title: 'MetroApp - Weather Tracking App',
         img:
-            'assets/Blooom3.jpg',
+            'assets/weather-app.png',
     },
     {
         id: 6,
-        title: 'KiddieBox - Virtual Classroom App',
+        title: 'e-Commerce App',
         img:
-        'assets/Pockit2.jpg',
+        'assets/e-comm.png',
     }
 ];
   
 export const designPortfolio = [
     {
         id: 1,
-        title: 'PockIt - Virtual Office Space App',
+        title: 'AnwaUrua - e-Commerce App',
         img:
-            'assets/pockit.jpg',
+            'assets/e-comm.png',
     },
     {
         id: 2,
-        title: 'Expense Tracking App',
+        title: 'Itinerary App',
         img:
-            'assets/Blooom2.jpg',
+            'assets/indc.png',
     },
     {
         id: 3,
@@ -138,7 +138,7 @@ export const designPortfolio = [
         id: 4,
         title: 'KiddieBox - Virtual Classroom App',
         img:
-        'assets/Pockit2.jpg',
+        'assets/newsapp.png',
     },
     {
         id: 5,
@@ -157,33 +157,33 @@ export const designPortfolio = [
 export const contentPortfolio = [
     {
         id: 1,
-        title: 'Kraken - Virtual Learning App',
+        title: 'Kraken - Weather Tracking App',
         img:
-            'assets/Blooom.jpg',
+            'assets/weather-app.png',
     },
     {
         id: 2,
         title: 'Expense Tracking App',
         img:
-            'assets/Blooom2.jpg',
+            'assets/exp-tracker.png',
     },
     {
         id: 3,
-        title: 'PockIt - Virtual Office Space App',
+        title: 'PockIt - Online Hotel Booking App',
         img:
-            'assets/pockit.jpg',
+            'assets/hotel-tour.png',
     },
     {
         id: 4,
-        title: 'Portfolio Web App',
+        title: 'marketPlaza - e-Commerce App',
         img:
-            'assets/portfolio.png',
+            'assets/e-comm3.png',
     },
     {
         id: 5,
-        title: 'Blooom - Social Media App',
+        title: 'BudgetIt - Online Budget Tracking App',
         img:
-            'assets/Blooom3.jpg',
+            'assets/bugt.png',
     },
     {
         id: 6,
